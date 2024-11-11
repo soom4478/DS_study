@@ -21,7 +21,7 @@ int minVertex(int D[], int chk[]) {
 void Dijkstra(int G[][SIZE], int D[], int P[], int i) {
 	int j, cnt = 0;
 	bool chk[SIZE] = { false };
-
+	 
 	//1´Ü°è
 	for (j = 0; j < SIZE; j++) {
 		if (G[i][j] > 0 && G[i][j] < M) {
