@@ -72,6 +72,9 @@
     <ClCompile Include="RePermutation2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Permutation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
